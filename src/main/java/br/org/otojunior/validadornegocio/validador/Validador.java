@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 import org.springframework.stereotype.Component;
 
 /**
- * @author Oto Soares Coelho Junior (oto.coelho-junior@serpro.gov.br)
+ * @author Oto Soares Coelho Junior (otojunior@gmail.com)
  *
  */
 @Component

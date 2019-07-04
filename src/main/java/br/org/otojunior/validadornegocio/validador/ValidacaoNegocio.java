@@ -8,7 +8,7 @@ import java.util.function.Supplier;
 
 /**
  * 
- * @author Oto Soares Coelho Junior (oto.coelho-junior@serpro.gov.br)
+ * @author Oto Soares Coelho Junior (otojunior@gmail.com)
  *
  */
 public interface ValidacaoNegocio {
