@@ -3,8 +3,12 @@
  */
 package br.org.otojunior.validadornegocio.validador;
 
+import static org.apache.commons.lang3.builder.ToStringStyle.SHORT_PREFIX_STYLE;
+
 import java.util.Collections;
 import java.util.List;
+
+import org.apache.commons.lang3.builder.ToStringBuilder;
 
 import lombok.Getter;
 
@@ -49,6 +53,6 @@ public class ViolacaoRestricao {
 	 */
 	@Override
 	public String toString() {
-		return "[mensagem=" + mensagem + "]";
+		return ToStringBuilder.reflectionToString(this, SHORT_PREFIX_STYLE);
 	}
 }
