@@ -1,7 +1,7 @@
 /**
  * 
  */
-package br.gov.serpro.krfb.validador;
+package br.org.otojunior.validadornegocio.validador;
 
 import java.util.Collections;
 import java.util.List;

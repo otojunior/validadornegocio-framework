@@ -1,7 +1,7 @@
 /**
  * 
  */
-package br.gov.serpro.krfb.validador;
+package br.org.otojunior.validadornegocio.validador;
 
 /**
  * Interface marcadora para o basePackage do @ComponentScan
