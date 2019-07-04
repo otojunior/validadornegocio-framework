@@ -8,4 +8,4 @@ package br.org.otojunior.validadornegocio.validador;
  * @author Oto Soares Coelho Junior (otojunior@gmail.com)
  *
  */
-public interface KrfbValidadorApplication { }
+public interface SpringBootValidadorApplication { }
